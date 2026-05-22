@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "winterly:cryomarble"
+    }
+  ],
+  "result": {
+    "item": "winterly:cryomarble_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "winterly:white_scarf",
+    "winterly:red_scarf",
+    "winterly:green_scarf",
+    "winterly:blue_scarf",
+    "winterly:rainbow_scarf"
+  ]
+}
